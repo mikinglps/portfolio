@@ -12,7 +12,7 @@ const Hero  = () => {
             <p>Olá, me chamo Michel Lopes e sou um desenvolvedor fullstack focado em oferecer serviço de alta qualidade.</p>
             <p>Preparei uma experiência como portfólio. Infelizmente, só funciona em computadores, não funcionará no mobile.</p>
             <p>A experiência se baseia inteiramente no prompt de comando (Terminal do Windows). Por favor, certifique-se de escrever as opções desejadas na caixa de texto, e então você me conhecerá melhor.</p>
-            <button className='bg-bgTerminal text-greenMain p-4 rounded-2xl mt-2 w-full lg:w-2/4' onClick={() => { window.location.href="http://localhost:3000/terminal" }}>Clique para iniciar a experiência.</button>
+            <button className='bg-bgTerminal text-greenMain p-4 rounded-2xl mt-2 w-full lg:w-2/4' onClick={() => { window.location.href="https://micheloblopes.vercel.app/terminal" }}>Clique para iniciar a experiência.</button>
         </div>
         <div className='order-1 lg:order-2  w-full lg:w-1/2 h-[350px] lg:h-full bg-bgTerminal relative flex justify-center align-center items-center p-6 flex-col lg:space-y-12'>
                 <div className='lg:absolute left-[-120px] top-0 lg:bg-bgTerminal lg:w-[200px] lg:h-[300px] rounded-bl-full '></div>

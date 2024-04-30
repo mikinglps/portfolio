@@ -9,7 +9,7 @@
         {"frontend": {
             "Layout de Advocacia": [ { "GitHub": "https://github.com/mikinglps/advocacialayout", "Website": "https://advocacialayout.vercel.app" }],
             "Poker Layout": [ { "GitHub": "https://github.com/mikinglps/pokerbrand" } ],
-            "Portfolio": [ {"GitHub": "https://github.com/mikinglps/portfolio"} ]
+            "Portfolio": [ {"GitHub": "https://github.com/mikinglps/portfolio", "Website": "https://micheloblopes.vercel.app"} ]
             }
         },
         {"exp": "<p>Trabalho desde 09/2021 como freelancer. Nessa jornada eu atuei como desenvolvedor fullstack, desenvolvendo vários tipos de sistemas.</p><p>Utilizando de ferramentas como:</p><ul><li>TypeScript</li><li>Nextjs</li><li>Nodejs</li><li>Reactjs</li><li>Spring Boot</li> <li>Docker</li> <li>Git</li><li>Entre outras...</li> </ul><p>| 9 - Sair</p>"},
@@ -30,7 +30,7 @@
         {"frontend": {
             "Lawyer Layout": [ { "GitHub": "https://github.com/mikinglps/advocacialayout", "Website": "https://advocacialayout.vercel.app" }],
             "Poker Layout": [ { "GitHub": "https://github.com/mikinglps/pokerbrand" } ],
-            "Portfolio": [ {"GitHub": "https://github.com/mikinglps/portfolio"} ]
+            "Portfolio": [ {"GitHub": "https://github.com/mikinglps/portfolio", "Website": "https://micheloblopes.vercel.app"} ]
         }
         },
         {"exp": "<p>I've been working since 09/2021 as a freelancer. On this journey I worked as a Fullstack Developer, making many kinds of systems.</p> <p>Making use of tools like:</p><ul><li>TypeScript</li><li>Nextjs</li><li>Nodejs</li><li>Reactjs</li><li>Spring Boot</li> <li>Docker</li> <li>Git</li><li>Etc...</li> </ul><p>| 9 - Exit</p>"},
