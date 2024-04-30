@@ -15,8 +15,8 @@ const Hero  = () => {
             <button className='bg-bgTerminal text-greenMain p-4 rounded-2xl mt-2 w-full lg:w-2/4' onClick={() => { window.location.href="http://localhost:3000/terminal" }}>Clique para iniciar a experiência.</button>
         </div>
         <div className='order-1 lg:order-2  w-full lg:w-1/2 h-[350px] lg:h-full bg-bgTerminal relative flex justify-center align-center items-center p-6 flex-col lg:space-y-12'>
-                <div className='lg:absolute left-[-100px] top-0 lg:bg-bgTerminal lg:w-[200px] lg:h-[300px] rounded-bl-full '></div>
-                <div className='lg:absolute left-[-190px] top-[-90px] lg:bg-bgTerminal lg:w-[100px] lg:h-[100px] rounded-bl-full '></div>
+                <div className='lg:absolute left-[-120px] top-0 lg:bg-bgTerminal lg:w-[200px] lg:h-[300px] rounded-bl-full '></div>
+                <div className='lg:absolute left-[-210px] top-[-90px] lg:bg-bgTerminal lg:w-[100px] lg:h-[100px] rounded-bl-full '></div>
                 <div className='bg-transparent lg:bg-bg lg:w-[500px]  lg:h-[400px] rounded-full flex justify-center items-center'>
                     <Image className='rounded-full w-[400px] h-auto' src='/ft.png' alt="Foto de perfil" width={400} height={100}/>
                 </div>
