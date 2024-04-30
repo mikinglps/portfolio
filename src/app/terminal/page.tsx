@@ -17,7 +17,7 @@ export default function Home() {
   const [clicked, setClicked] = useState<boolean>(false);
 
   return (
-    <main className={`${shareTechMono.className} flex p-6 justify-center w-full h-screen flex-col`}>
+    <main className={`${shareTechMono.className} flex p-6 justify-center w-full h-screen flex-col text-greenMain`}>
       <div className="flex justify-center w-full h-screen">
       {lang == "" ? 
       <Language setLanguage={setLang} lang={lang} option={option} setPopUp={setPopUp}/>
