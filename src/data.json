@@ -1,0 +1,41 @@
+{
+    "pt": [
+        {"fcolumn": [ "Sobre", "Projetos", "Experiências", "Educação", "Perfis"] },
+        {"sFcolumn": "<p>Desenvolvedor experiente em ReactJS, NodeJS e tecnologias front-end/backend. Especializado em aplicações web e sites. Colaborativo, atualizado e focado em entregar resultados excepcionais.</p> <br> <p>Experiência em:</p> <br> <p>Java, React, Next, Node, JavaScript, JQuery, Bootstrap, TailwindCSS, MySQL e MongoDB.</p><p>Escrever código reutilizável de alto desempenho para componentes de UI.</p><p>| 9 - Sair"},
+        {"msg": "Deseja abrir o website ou o GitHub?"},
+        {"backend": {
+            "Webscrapping": [ { "GitHub": "https://github.com/mikinglps/gupy_nerdin_webscrapping"}]
+        }},
+        {"frontend": {
+            "Layout de Advocacia": [ { "GitHub": "https://github.com/mikinglps/advocacialayout", "Website": "https://advocacialayout.vercel.app" }],
+            "Poker Layout": [ { "GitHub": "https://github.com/mikinglps/pokerbrand" } ]
+            }
+        },
+        {"exp": "<p>Trabalho desde 09/2021 como freelancer. Nessa jornada eu atuei como desenvolvedor fullstack, desenvolvendo vários tipos de sistemas.</p><p>Utilizando de ferramentas como:</p><ul><li>TypeScript</li><li>Nextjs</li><li>Nodejs</li><li>Reactjs</li><li>Spring Boot</li> <li>Docker</li> <li>Git</li><li>Entre outras...</li> </ul><p>| 9 - Sair</p>"},
+        {"educational": "<p>Análise e Desenvolvimento de Sistemas - Graduação</p>08/2021 - 12/2024<p><p>Habilidades que desenvolvi nesse curso: </p> <ul><li>Java</li><li>Nodejs</li><li>Reactjs</li><li>MySQL</li><li>Cloud Computing</li><li>HTML, CSS</li><li>Entre outros...</li></ul><br> <p>Curso Técnico em Informática - Técnico</p><p>01/2018 - 08/2021</p><p>Nesse curso foi onde eu aprendi a lógica de programação, os fundamentos de segurança, sobre versionamento, linguagens como PHP, Java e Kotlin. Também foi onde tive o meu primeiro contato com bancos de dados relacionais e não relacionais.</p><p>| 9 - Sair</p>"},
+        {"social": {
+            "LinkedIn": "https://www.linkedin.com/in/michel-lopes-319261220/",
+            "GitHub": "https://github.com/mikinglps"
+        }}
+    ]
+    ,
+    "en": [
+        {"fcolumn": [ "About", "Projects", "Experiences", "Educational", "Profiles" ]},
+        {"sFcolumn": "<p>Experient developer in ReactJS, NodeJS and front-end/backend technologies. Specilialized in api's and websites. Cooperative, updated and focused on deliverying exceptional results.</p><p>Experience on:</p><p>Java, React, Next, Node, JavaScript, JQuery, Bootstrap,TailwindCSS, MySQL and MongoDB.</p><p>Writing high end reusable code for UI components.</p><p>| 9 - Exit"},
+        {"msg": "Would you like to open GitHub or website?"},
+        {"backend": {
+            "Webscrapping": [ { "GitHub": "https://github.com/mikinglps/gupy_nerdin_webscrapping"}]
+        }},
+        {"frontend": {
+            "Lawyer Layout": [ { "GitHub": "https://github.com/mikinglps/advocacialayout", "Website": "https://advocacialayout.vercel.app" }],
+            "Poker Layout": [ { "GitHub": "https://github.com/mikinglps/pokerbrand" } ]
+        }
+        },
+        {"exp": "<p>I've been working since 09/2021 as a freelancer. On this journey I worked as a Fullstack Developer, making many kinds of systems.</p> <p>Making use of tools like:</p><ul><li>TypeScript</li><li>Nextjs</li><li>Nodejs</li><li>Reactjs</li><li>Spring Boot</li> <li>Docker</li> <li>Git</li><li>Etc...</li> </ul><p>| 9 - Exit</p>"},
+        {"educational": "<p>System Development & Analysis - Associate Degree</p>08/2021 - 12/2024<p><p>Skills I've developed during this course: </p><ul><li>Java</li><li>Nodejs</li><li>Reactjs</li><li>MySQL</li><li>Cloud Computing</li><li>HTML, CSS</li><li>Among others...</li></ul> <br> <p>Technical IT Course - Certificate</p><p>01/2018 - 08/2021</p><p>In this course I've learn about logic programming, the fundamentals of cyber security, about code versioning, programming languages like PHP, Java and Kotlin. And also where I've made my first contact with relational and non-relational databases</p><p>| 9 - Exit</p>"},
+        {"social": {
+            "LinkedIn": "https://www.linkedin.com/in/michel-lopes-319261220/",
+            "GitHub": "https://github.com/mikinglps"
+        }}
+    ]  
+}
