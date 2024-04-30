@@ -17,12 +17,12 @@ export default function Home() {
   const [clicked, setClicked] = useState<boolean>(false);
 
   return (
-    <main className={`${shareTechMono.className} flex p-6 justify-center w-full h-screen flex-col text-greenMain`}>
-      <div className="flex justify-center w-full h-screen">
+    <main className={`${shareTechMono.className} flex p-6 justify-center w-full h-screen flex-col text-greenMain bg-bgTerminal relative`}>
+      <div className="flex justify-center w-full h-full">
       {lang == "" ? 
       <Language setLanguage={setLang} lang={lang} option={option} setPopUp={setPopUp}/>
       :
-      <section className="flex p-24 w-full h-full">
+      <section className="flex flex-row lg:flex-col p-4 md:p-24 w-full">
         <Columns lang={lang} option={option} setOption={setOption} equal={equal} setMessage={setMessage} setPopUp={setPopUp} setGit={setGit} setWebsite={setWebsite} setEqual={setEqual} setClicked={setClicked} clicked={clicked} popUp={popUp}/>
       </section>
       

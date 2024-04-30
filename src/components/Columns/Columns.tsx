@@ -165,8 +165,8 @@ useEffect(() => {
     )
   }
   return (
-    <div className='flex w-full space-x-4 sm:flex-row'>
-        <ul className='justify-self-start w-1/4'>
+    <div className='flex w-full space-y-4 md:space-x-4 flex-col md:flex-row'>
+        <ul className='justify-self-start w-full md:w-1/4'>
           { data[0].fcolumn.map((text: string, idx: number) =>   (
             <li key={idx}>| - {idx + 1} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6 inline">
               <path strokeLinecap="round" strokeLinejoin="round" d="M2.25 12.75V12A2.25 2.25 0 0 1 4.5 9.75h15A2.25 2.25 0 0 1 21.75 12v.75m-8.69-6.44-2.12-2.12a1.5 1.5 0 0 0-1.061-.44H4.5A2.25 2.25 0 0 0 2.25 6v12a2.25 2.25 0 0 0 2.25 2.25h15A2.25 2.25 0 0 0 21.75 18V9a2.25 2.25 0 0 0-2.25-2.25h-5.379a1.5 1.5 0 0 1-1.06-.44Z" />
@@ -176,7 +176,7 @@ useEffect(() => {
         </ul>
         {fColumnOption == 1 && fColumnSelection ? <Sobre msg={data[1].sFcolumn} /> : 
         fColumnOption == 2 && fColumnSelection ? 
-        <ul className='w-1/4'>
+        <ul className='w-full md:w-1/4'>
           <li>| 1 - Backend</li>
           <li>| 2 - Frontend</li>
           {lang == "Pt" ? 

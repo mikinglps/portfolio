@@ -6,7 +6,7 @@ type TypeSobre = {
 
 const Sobre: React.FC<TypeSobre> = ({msg}) => {
   return (
-    <div dangerouslySetInnerHTML={{ __html: msg }}>
+    <div className='h-auto overflow-y-auto' dangerouslySetInnerHTML={{ __html: msg }}>
     </div>
   )
 }

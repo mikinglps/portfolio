@@ -37,7 +37,7 @@ const TextBox: React.FC<TextBoxProps> = ({lang, setOption, option, setEqual, equ
     },[lang])
 
   return (
-    <textarea className=' overflow-y-hidden placeholder-greenMain bg-transparent outline-none border-l-2 border-b-2 border-greenMain p-2 resize-none pb-0 h-10' id="options" onKeyDown={(e) => {enterHandler(e);}} placeholder={placeholder}></textarea>
+    <textarea className='overflow-y-hidden placeholder-greenMain bg-transparent outline-none border-l-2 border-b-2 border-greenMain p-2 resize-none pb-0 box-border h-[40px]' id="options" onKeyDown={(e) => {enterHandler(e);}} placeholder={placeholder}></textarea>
   )
 }
 

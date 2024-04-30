@@ -6,6 +6,6 @@ type TypeEducation = {
 
 export const Educational: React.FC<TypeEducation> = ({data}) => {
   return (
-    <div dangerouslySetInnerHTML={{__html: data[6].educational}}></div>
+    <div className="h-auto overflow-y-auto" dangerouslySetInnerHTML={{__html: data[6].educational}}></div>
   )
 }

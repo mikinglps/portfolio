@@ -34,8 +34,8 @@ const PopUp: React.FC<TypePopUp> = ({lang, option, setPopUp, popUp, message, set
         }
     },[clicked])
   return (
-    <div className='popUpMessage absolute p-5 h-40 inset-y-1/4 w-80 border-b-2 border-2 border-white bg-black'>
-        <div className='absolute top-0 right-0 border-2 border-white cursor-pointer px-2' onClick={() => {setClicked(true); setPopUp(!popUp)}}>X</div>
+    <div className='absolute m-auto left-0 right-0 bottom-0 top-0 p-6 w-[300px] h-[150px] lg:w-80 border-b-2 border-2 border-white bg-bgTerminal'>
+        <div className='absolute top-0 right-0 border-2 border-white px-2' onClick={() => {setClicked(true); setPopUp(!popUp)}}>X</div>
         <p>{message}</p>
         {git != '' ? 
         <div className='flex'>
