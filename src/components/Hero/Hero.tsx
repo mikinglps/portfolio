@@ -10,7 +10,7 @@ const Hero  = () => {
             <p className='font-medium text-3xl lg:text-7xl text-bgTerminal tracking-wide'>Desenvolvedor Fullstack</p>
             <p className='font-thin text-lg lg:text-xl'>Java | NodeJS | ReactJS | NextJS | Docker | SQL & NoSQL</p>
             <p>Olá, me chamo Michel Lopes e sou um desenvolvedor fullstack focado em oferecer serviço de alta qualidade.</p>
-            <p>Preparei uma experiência como portfólio. Infelizmente, só funciona em computadores, não funcionará no mobile.</p>
+            <p>Preparei uma experiência como portfólio. Use um computador para melhor experiência, mas funciona perfeitamente em mobile.</p>
             <p>A experiência se baseia inteiramente no prompt de comando (Terminal do Windows). Por favor, certifique-se de escrever as opções desejadas na caixa de texto, e então você me conhecerá melhor.</p>
             <button className='bg-bgTerminal text-greenMain p-4 rounded-2xl mt-2 w-full lg:w-2/4' onClick={() => { window.location.href="https://micheloblopes.vercel.app/terminal" }}>Clique para iniciar a experiência.</button>
         </div>
