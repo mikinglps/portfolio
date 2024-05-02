@@ -4,7 +4,8 @@
         {"sFcolumn": "<p>Desenvolvedor experiente em ReactJS, NodeJS e tecnologias front-end/backend. Especializado em aplicações web e sites. Colaborativo, atualizado e focado em entregar resultados excepcionais.</p> <br> <p>Experiência em:</p> <br> <p>Java, React, Next, Node, JavaScript, JQuery, Bootstrap, TailwindCSS, MySQL e MongoDB.</p><p>Escrever código reutilizável de alto desempenho para componentes de UI.</p><p>| 9 - Sair"},
         {"msg": "Deseja abrir o website ou o GitHub?"},
         {"backend": {
-            "Webscrapping": [ { "GitHub": "https://github.com/mikinglps/gupy_nerdin_webscrapping"}]
+            "Webscrapping": [ { "GitHub": "https://github.com/mikinglps/gupy_nerdin_webscrapping"}],
+            "Autenticação de Login - Java": [ { "GitHub": "https://github.com/mikinglps/login-authentication-java/" } ]
         }},
         {"frontend": {
             "Layout de Advocacia": [ { "GitHub": "https://github.com/mikinglps/advocacialayout", "Website": "https://advocacialayout.vercel.app" }],
@@ -25,7 +26,8 @@
         {"sFcolumn": "<p>Experient developer in ReactJS, NodeJS and front-end/backend technologies. Specilialized in api's and websites. Cooperative, updated and focused on deliverying exceptional results.</p><p>Experience on:</p><p>Java, React, Next, Node, JavaScript, JQuery, Bootstrap,TailwindCSS, MySQL and MongoDB.</p><p>Writing high end reusable code for UI components.</p><p>| 9 - Exit"},
         {"msg": "Would you like to open GitHub or website?"},
         {"backend": {
-            "Webscrapping": [ { "GitHub": "https://github.com/mikinglps/gupy_nerdin_webscrapping"}]
+            "Webscrapping": [ { "GitHub": "https://github.com/mikinglps/gupy_nerdin_webscrapping"}],
+            "Login Authentication - Java": [ { "GitHub": "https://github.com/mikinglps/login-authentication-java/" } ]
         }},
         {"frontend": {
             "Lawyer Layout": [ { "GitHub": "https://github.com/mikinglps/advocacialayout", "Website": "https://advocacialayout.vercel.app" }],
