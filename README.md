@@ -4,12 +4,12 @@
 ## Estrutura do Projeto
 O projeto segue uma estrutura básica de um site estático, com os seguintes diretórios e arquivos principais:
 
-/public: Contém as imagens utilizadas no site.
-/src: Armazena todos os arquivos referentes a montagem do site.
-src/data.json: Contém o JSON para que as atualizações que eu precise fazer, eu só precise mudar o JSON.
-src/components: Contém os componentes de UI utilizados, para melhor organização e legibilidade do código.
-src/app: Organização geral do site e suas definições globais.
-src/app/terminal: Página que fornece informações sobre o autor, mas também um playground de portfólio.
+* /public: Contém as imagens utilizadas no site.
+* /src: Armazena todos os arquivos referentes a montagem do site.
+* /src/data.json: Contém o JSON para que as atualizações que eu precise fazer, eu só precise mudar o JSON.
+* /src/components: Contém os componentes de UI utilizados, para melhor organização e legibilidade do código.
+* /src/app: Organização geral do site e suas definições globais.
+* /src/app/terminal: Página que fornece informações sobre o autor, mas também um playground de portfólio.
 
 ## Como Utilizar
 Clonar o Repositório: Clone este repositório em sua máquina local usando o seguinte comando:
