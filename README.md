@@ -31,5 +31,5 @@ npm run dev
 * TailwindCSS
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias ou correções.
 
-Contato
+### Contato
 Para mais informações ou dúvidas, entre em contato comigo através do GitHub ou [LinkedIn](https://www.linkedin.com/in/michel-lopes-319261220/).
